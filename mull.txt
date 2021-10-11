@@ -1,6 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+ # define ll long long
+    #define rep(a,x,n)       for(ll a=x;a<n;a++)
+    #define ROF(a,x,n)       for(ll a=x;a>=n;a--)
+    # define fast ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+    #define MOD              1000000007
 int main() {
                  int a, b;
                  cin >> a >> b;
