@@ -6,6 +6,6 @@ int main() {
                  cin >> a >> b;
                  
                  int c = a-b; 
-
+               rep(i,0,n)
                  cout << c;
 }      
